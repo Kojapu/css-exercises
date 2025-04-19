@@ -2,3 +2,14 @@
     background-color: #fda7a8;
     font-family: verdana, DejaVu Sans, sans-serif;
 }
+
+#oneID {
+    color: #0b24fb;
+    font-size: 36px;
+}
+
+#anotherID {
+    background-color: #85fd86;
+    font-size: 24px;
+    font-weight: bold;
+}
